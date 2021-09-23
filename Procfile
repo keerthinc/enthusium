@@ -1,1 +1,1 @@
-web: gunicorn Eproject.wsgif
+web: gunicorn Eproject.wsgi
